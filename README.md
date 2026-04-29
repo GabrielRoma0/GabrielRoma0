@@ -5,6 +5,11 @@ Estudante de ciência da computação na *FIAP*.
 
 ---
 
+## 🚀 Meu Portfólio Online
+
+[![Website](https://img.shields.io/badge/Acesse_meu_Portfólio-00ff88?style=flat&logo=googlechrome&logoColor=black)](https://gabrielroma0.github.io/)
+---
+
 ## 🛠️ Tecnologias que estudo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
