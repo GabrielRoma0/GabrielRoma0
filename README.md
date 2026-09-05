@@ -1,51 +1,74 @@
-<h1 align="center">Olá 👋, meu nome é Gabriel Romão</h1>
-<h3 align="center">Estudante de Ciência da Computação · Buscando meu primeiro estágio em São Paulo, Brasil</h3>
+# Hi, I'm Gabriel 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielRoma0&label=Profile%20views&color=0e75b6&style=flat" alt="GabrielRoma0" />
+  <a href="https://www.linkedin.com/in/gabriel-botelho-rom%C3%A3o/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielbromao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-- 🔭 Atualmente trabalhando em **[ChargeGrid Intelligence](https://github.com/GabrielRoma0/SPRINT02-SERS-PCP)**, um chatbot para motoristas de veículos elétricos (parceria FIAP × GoodWe)
-- 🌱 Atualmente aprendendo **SQL, estruturas de dados e engenharia de prompt aplicada** (Zero-Shot, Few-Shot, Chain-of-Thought, Role Prompting)
-- 👯 Buscando colaborar em projetos de **back-end Python, automação com IA ou análise de dados**
-- 🤝 Buscando ajuda com **oportunidades de estágio em São Paulo**
-- 💬 Me pergunte sobre **Python, SQLite, prompt engineering e integração de LLMs (Ollama, OpenAI, Gemini, Grok) em automações reais**
-- 📫 Como me encontrar: **gabrielbromao@gmail.com**
-- ⚡ Curiosidade: aprendi Python, C, SQL e Git em poucos meses, de forma totalmente autodidata
+**Computer Science student at FIAP · Python & AI automation enthusiast · São Paulo, Brazil**
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-botelho-rom%C3%A3o/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-botelho-romão" height="30" width="40" />
-</a>
-<a href="mailto:gabrielbromao@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+I work with Python applied to backend logic and AI-powered automation — designing relational schemas in SQLite, writing modular business logic, and wiring LLMs (local via Ollama and via API) into real workflows that actually run in production, not just in a notebook. Currently in my 2nd semester of Computer Science, expanding into data structures, SQL and prompt engineering.
+
+My background is self-taught and fast-moving: in a few months I picked up Python, C, SQL, Git and applied prompt engineering, going from first principles to shipping working tools. I read technical documentation in English as a default and try to carry that same clarity into every repository here.
+
+<p align="center">
+  <img src="./assets/banner-coding.gif" width="500" alt="coding banner" />
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+---
+
+<p align="center">
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=GabrielRoma0&style=flat&color=grey&label=visitors" />
 </p>
 
-<h3 align="left">🚀 Projetos em destaque:</h3>
+### Programming Languages
 
-- 🤖 **[Finance Bot](https://github.com/GabrielRoma0)** — bot no Telegram que interpreta gastos em linguagem natural via Grok API (xAI) e organiza tudo no Google Sheets, orquestrado com n8n
-- 🛰️ **[ConnectSat / ARIA](https://github.com/GabrielRoma0/GS-PROMPT-1SEM)** — CLI de telemetria de satélite com LLM local (Ollama) e few-shot prompting
-- ⚡ **[ChargeGrid Intelligence](https://github.com/GabrielRoma0/SPRINT02-SERS-PCP)** — chatbot para EVs com testes de prompt injection (FIAP × GoodWe)
-- 📊 **[Habit Tracker CLI](https://github.com/GabrielRoma0/Python-SQLite-Rastreador-de-H-bitos)** — rastreador de hábitos com SQLite e migração automática de schema
-- 🧮 **[Stats Analyzer](https://github.com/GabrielRoma0/C---Calculadora-de-Estatisticas)** — ferramenta de análise estatística em C com gerenciamento manual de memória
+<img src="https://skillicons.dev/icons?i=py,c,js" />
 
-<h3 align="left">📊 Estatísticas do GitHub:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielRoma0&show_icons=true&locale=pt-BR&theme=dark" alt="GabrielRoma0" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRoma0&theme=dark" alt="GabrielRoma0" width="48%" />
+### Tools & Frameworks
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" />
+
+### Libraries
+
+<img src="https://skillicons.dev/icons?i=sqlite" />
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" /></a>
+
+<p align="center">
+  <img src="./assets/banner-kiki.gif" width="500" alt="landscape banner" />
 </p>
+
+---
+
+### 🚀 What I'm working on
+
+- Building a portfolio of end-to-end Python projects — from a relational-database habit tracker to an AI chatbot with prompt-injection testing
+- Deepening SQL and data structures fundamentals while applying Conventional Commits and modular architecture from day one
+- Exploring how local and API-based LLMs (Ollama, OpenAI, Gemini, Grok) can be wired into real automation pipelines, not just demos
+
+---
+
+### 🎓 Certifications
+
+- **Git and GitHub: Version Control** — Alura · 2026
+- **SQLite Online: SQL Statements** — Alura · 2026
+- **Practicing Python: For and While Loops** — Alura · 2026
+- **Practicing Python: Strings and Regex** — Alura · 2026
+- **Practicing Python: If, Elif and Else** — Alura · 2026
+- **Python for Data** — Alura · 2026
+- **Programming Logic with JavaScript** — Alura · 2026
+- **Learn to Program** — FIAP · 2026
+
+---
+
+### 🌐 Languages
+
+🇧🇷 Portuguese (native) · 🇺🇸 English (advanced technical reading & writing) · 🇮🇹 Italian citizenship (no fluency)
+
+---
+
+Open to conversations about Python, AI automation, and my first internship in São Paulo.
