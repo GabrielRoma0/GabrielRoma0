@@ -47,6 +47,20 @@ My background is self-taught and fast-moving: in a few months I picked up Python
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**ChargeGrid Manager**](https://github.com/rafaperes21/ChargeGrid-Manager) | Our main project — EV charging management system, built in collaboration with [@rafaperes21](https://github.com/rafaperes21) | Python |
+| [**ChargeGrid Intelligence**](https://github.com/GabrielRoma0/SPRINT02-SERS-PCP) | Chatbot for EV drivers at commercial charging stations (FIAP × GoodWe partnership), with prompt-injection test cases | Python · OpenAI · Gemini · Ollama |
+| [**ConnectSat / ARIA**](https://github.com/GabrielRoma0/GS-PROMPT-1SEM) | Satellite telemetry monitoring CLI powered by a local LLM, with few-shot prompting and real-time response streaming | Python · Ollama · Rich |
+| [**Habit Tracker CLI**](https://github.com/GabrielRoma0/Python-SQLite-Rastreador-de-H-bitos) | Habit tracker with a relational SQLite schema, automatic migrations and weekly consistency reports | Python · SQLite |
+| [**CNPJ Validator**](https://github.com/GabrielRoma0/validador-cnpj-alfanumerico) | Validates Brazilian CNPJ numbers in both the legacy numeric format and the new alphanumeric format from the tax reform | Python |
+| [**Stats Analyzer**](https://github.com/GabrielRoma0/C---Calculadora-de-Estatisticas) | High-performance statistics tool in C with dynamic memory management and a text-mode histogram | C |
+| [**Portfolio Website**](https://github.com/GabrielRoma0/GabrielRoma0.github.io) | My personal portfolio site | HTML |
+
+---
+
 ### 🚀 What I'm working on
 
 - Building a portfolio of end-to-end Python projects — from a relational-database habit tracker to an AI chatbot with prompt-injection testing
