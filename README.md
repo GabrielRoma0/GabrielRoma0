@@ -1,13 +1,11 @@
 # Hi, I'm Gabriel 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-botelho-rom%C3%A3o/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielbromao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/gabriel-botelho-rom%C3%A3o/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:gabrielbromao@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 
 **Computer Science student at FIAP · Python & AI automation enthusiast · São Paulo, Brazil**
 
@@ -19,7 +17,9 @@ My background is self-taught and fast-moving: in a few months I picked up Python
 
 ---
 
-<img alt="visitors" src="https://komarev.com/ghpvc/?username=GabrielRoma0&style=flat&color=grey&label=visitors" />
+<p align="center">
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=GabrielRoma0&style=flat&color=grey&label=visitors" />
+</p>
 
 ## Programming Languages
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4ODAiIGhlaWdodD0iMSI+PHJlY3Qgd2lkdGg9Ijg4MCIgaGVpZ2h0PSIxIiBmaWxsPSIjMzAzNjNkIi8+PC9zdmc+" width="100%" height="1" alt="" />
