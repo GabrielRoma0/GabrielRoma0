@@ -15,15 +15,11 @@ I work with Python applied to backend logic and AI-powered automation — design
 
 My background is self-taught and fast-moving: in a few months I picked up Python, C, SQL, Git and applied prompt engineering, going from first principles to shipping working tools. I read technical documentation in English as a default and try to carry that same clarity into every repository here.
 
-<p align="center">
-  <img src="./assets/banner-coding.gif" width="500" alt="coding banner" />
-</p>
+<img src="./banner-coding.gif" width="500" alt="coding banner" />
 
 ---
 
-<p align="center">
-  <img alt="visitors" src="https://komarev.com/ghpvc/?username=GabrielRoma0&style=flat&color=grey&label=visitors" />
-</p>
+<img alt="visitors" src="https://komarev.com/ghpvc/?username=GabrielRoma0&style=flat&color=grey&label=visitors" />
 
 ## Programming Languages
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4ODAiIGhlaWdodD0iMSI+PHJlY3Qgd2lkdGg9Ijg4MCIgaGVpZ2h0PSIxIiBmaWxsPSIjMzAzNjNkIi8+PC9zdmc+" width="100%" height="1" alt="" />
@@ -47,9 +43,7 @@ My background is self-taught and fast-moving: in a few months I picked up Python
 
 <sub>Also working with the Grok (xAI) API — not yet covered by these icon sets.</sub>
 
-<p align="center">
-  <img src="./assets/banner-kiki.gif" width="500" alt="landscape banner" />
-</p>
+<img src="./banner-kiki.gif" width="500" alt="landscape banner" />
 
 ---
 
