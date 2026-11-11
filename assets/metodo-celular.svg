@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="400" viewBox="0 0 420 400" role="img" aria-label="Entender, Prototipar, Construir, Publicar">
+<title>Entender, Prototipar, Construir, Publicar</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#E6E6E6}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8A8A8A}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#E6E6E6}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F2F2F2}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A0A0A0}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#E6E6E6}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFCFCF}
+@keyframes me0{0%,0%{fill:#141414;stroke:#3A3A3A}3%,90%{fill:#262626;stroke:#E6E6E6}100%{fill:#141414;stroke:#3A3A3A}}.me0{animation:me0 9s ease infinite}@keyframes me1{0%,24%{fill:#141414;stroke:#3A3A3A}28%,90%{fill:#262626;stroke:#E6E6E6}100%{fill:#141414;stroke:#3A3A3A}}.me1{animation:me1 9s ease infinite}@keyframes me2{0%,49%{fill:#141414;stroke:#3A3A3A}53%,90%{fill:#262626;stroke:#E6E6E6}100%{fill:#141414;stroke:#3A3A3A}}.me2{animation:me2 9s ease infinite}@keyframes me3{0%,74%{fill:#141414;stroke:#3A3A3A}78%,90%{fill:#262626;stroke:#E6E6E6}100%{fill:#141414;stroke:#3A3A3A}}.me3{animation:me3 9s ease infinite}.trilho{stroke-dasharray:100;stroke-dashoffset:100;animation:trilho 9s ease-in-out infinite}@keyframes trilho{0%{stroke-dashoffset:100;opacity:1}75%,92%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}.ponto{animation:ponto 9s ease-in-out infinite}@keyframes ponto{0%{transform:translateY(0);opacity:1}75%{transform:translateY(276.0px);opacity:1}92%{opacity:0}100%{transform:translateY(0);opacity:0}}</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#8A8A8A"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="418" height="398" rx="18" fill="#141414" stroke="#2A2A2A"/><clipPath id="ce"><rect x="1" y="1" width="418" height="398" rx="18"/></clipPath><g clip-path="url(#ce)"><g class="shine"><rect x="0" y="-20" width="150" height="440" fill="url(#sh)" transform="skewX(-18)"/></g></g><rect class="run" x="1" y="1" width="418" height="398" rx="18" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<line x1="56" y1="62" x2="56" y2="338" stroke="#2A2A2A" stroke-width="2"/>
+<line class="trilho" x1="56" y1="62" x2="56" y2="338" stroke="#E6E6E6" stroke-width="2.4" pathLength="100"/>
+<circle class="me0" cx="56" cy="62" r="22" fill="#141414" stroke="#3A3A3A" stroke-width="1.6"/><text class="mk" x="56" y="69" text-anchor="middle">1</text>
+<g class="up" style="animation-delay:0.15s"><text class="mt" x="96" y="58">Entender</text><text class="ms" x="96" y="78">o processo real, não o ideal</text></g>
+<circle class="me1" cx="56" cy="154" r="22" fill="#141414" stroke="#3A3A3A" stroke-width="1.6"/><text class="mk" x="56" y="161" text-anchor="middle">2</text>
+<g class="up" style="animation-delay:0.30s"><text class="mt" x="96" y="150">Prototipar</text><text class="ms" x="96" y="170">tela clicável antes do banco</text></g>
+<circle class="me2" cx="56" cy="246" r="22" fill="#141414" stroke="#3A3A3A" stroke-width="1.6"/><text class="mk" x="56" y="253" text-anchor="middle">3</text>
+<g class="up" style="animation-delay:0.45s"><text class="mt" x="96" y="242">Construir</text><text class="ms" x="96" y="262">em etapas pequenas, com teste</text></g>
+<circle class="me3" cx="56" cy="338" r="22" fill="#141414" stroke="#3A3A3A" stroke-width="1.6"/><text class="mk" x="56" y="345" text-anchor="middle">4</text>
+<g class="up" style="animation-delay:0.60s"><text class="mt" x="96" y="334">Publicar</text><text class="ms" x="96" y="354">no ar, com gente usando de verdade</text></g>
+<circle class="ponto" cx="56" cy="62" r="5" fill="#FFFFFF"/>
+</svg>
